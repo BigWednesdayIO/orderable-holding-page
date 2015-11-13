@@ -1,0 +1,22 @@
+{
+  "name": "orderable.co",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigWednesdayIO/orderable.co.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/BigWednesdayIO/orderable.co/issues"
+  },
+  "homepage": "https://github.com/BigWednesdayIO/orderable.co#readme",
+  "devDependencies": {
+    "surge": "^0.17.2"
+  }
+}
